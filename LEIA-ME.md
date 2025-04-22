@@ -39,10 +39,10 @@ Foram identificadas correlações entre o nível de testosterona e o diagnóstic
 
 ## ▶️ Como executar
 
-Você pode abrir o notebook `pcos_eda.ipynb` em qualquer ambiente compatível com Jupyter (como Jupyter Lab, Google Colab ou VSCode).
+Você pode abrir o notebook `pcos_cod.ipynb` em qualquer ambiente compatível com Jupyter (como Jupyter Lab, Google Colab ou VSCode).
 
 ## 📬 Contato
 
 Andressa Folha Vieira  
-📧 andressa@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/andressa)
+📧 andressafolhav@gmail.com  
+🔗 [LinkedIn](linkedin.com/in/andressa-folha-vieira-0782722aa)
