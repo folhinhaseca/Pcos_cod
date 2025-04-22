@@ -39,10 +39,10 @@ We observed a positive correlation between testosterone levels and PCOS diagnosi
 
 ## ▶️ How to Run
 
-Open the `pcos_eda.ipynb` notebook using any Jupyter-compatible environment (e.g., Jupyter Lab, Google Colab, or VSCode).
+Open the `pcos_cod.ipynb` notebook using any Jupyter-compatible environment (e.g., Jupyter Lab, Google Colab, or VSCode).
 
 ## 📬 Contact
 
 Andressa Folha Vieira  
-📧 andressa@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/andressa)
+📧 andressafolhav@gmail.com  
+🔗 [LinkedIn](linkedin.com/in/andressa-folha-vieira-0782722aa)
